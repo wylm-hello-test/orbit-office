@@ -1,0 +1,13 @@
+{
+  "version": "1.1.2-office",
+  "runtime_dependencies": [],
+  "public_root": "dist",
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "665bcb00da6034867e78e5b1b7baf6096b464b398ca02f0b3eebe650909ce159",
+      "bytes": 33887
+    }
+  ],
+  "privacy": "synthetic DEMO only; no internal dataset, credentials, fetch or persistence"
+}
